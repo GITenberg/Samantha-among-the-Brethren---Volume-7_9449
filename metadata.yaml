@@ -1,0 +1,29 @@
+_repo: Samantha-among-the-Brethren---Volume-7_9449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holley, Marietta
+    alias: Josiah Allen's wife
+    birthdate: 1836
+    deathdate: 1926
+    gutenberg_agent_id: '1194'
+    url: http://www.gutenberg.org/2009/agents/1194
+    wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodism -- Humor'
+- !lcc 'PS'
+- !lcsh 'Women in church work -- Methodist church -- Humor'
+- !lcsh 'Women''s rights -- Humor'
+- GITenberg
+title: Samantha among the Brethren — Volume 7
+url: http://www.gutenberg.org/ebooks/9449
